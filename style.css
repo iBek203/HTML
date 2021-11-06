@@ -1,0 +1,98 @@
+body {
+  margin: 0px;
+  background-color: rgba(0, 0, 0, 0.904);
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+.tracing {
+  color: #796838ea;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  text-shadow: 0px 0px 100px rgba(141, 121, 11, 0.877);
+  font-size: 60px;
+  font-weight: bolder;
+}
+.cart1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(121, 121, 121);
+  height: 300px;
+  width: 500px;
+  border-radius: 30px;
+}
+.cart2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(121, 121, 121);
+  height: 220px;
+  width: 500px;
+  border-radius: 30px;
+}
+.cart3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(121, 121, 121);
+  height: 200px;
+  width: 500px;
+  border-radius: 30px;
+}
+.text {
+  position: relative;
+  top: 10px;
+  text-align-last: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  font-weight: bolder;
+}
+li {
+  margin-top: 2px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+ul {
+  margin-top: 50px;
+}
+.moods {
+  color: rgba(177, 100, 0, 0.877);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.mood {
+  color: rgba(172, 211, 0, 0.877);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.img_mood {
+  width: 400px;
+}
+a {
+  text-decoration: none;
+  color: rgb(187, 159, 0);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.circle {
+  list-style-type: circle;
+}
+.foot1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: rgb(105, 105, 105);
+}
+.foot2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  color: rgb(105, 105, 105);
+}
+footer {
+  background-color: rgb(29, 29, 29);
+}
